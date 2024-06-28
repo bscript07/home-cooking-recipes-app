@@ -11,4 +11,5 @@
 - Създаване на приложения с Express и Handlebars
 - Създаване на MVC архитектура
 
-![JS Back-End - May 2024 - Certificate](https://github.com/BrayanMark/SoftUni-Javascript-Front-End/assets/145554659/f5fd2614-3f36-4a1f-af5c-790e8838b61e)
+
+![218246](https://github.com/bscript07/home-cooking-recipes-app/assets/145554659/82961e00-1980-4735-bd5d-6f042f00cb8d)
